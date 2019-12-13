@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## Purpose 
 
-You can use the [editor on GitHub](https://github.com/anonymousresearchers/anonymousresearchers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Support Material
+The purpose of this website is to provide the data used in the submission in MobiSys 2020. 
+### Data 
 
 - The source code of implementing different prediction algorithms, building and evaluating different prediction models is written in Python, and can be found here.
-- The data of our 7 million prediction models is stored as .RData file and can be found [here.]https://drive.google.com/file/d/1FMuvddoRjXpo0q_8NKrA0rFKt96dura3/view
+- The data of our 7 million prediction models is stored as .RData file and can be found [here.](https://drive.google.com/file/d/1FMuvddoRjXpo0q_8NKrA0rFKt96dura3/view)
 - All the data analyses are performed through R scripts and can be found here.
 
 ```markdown
