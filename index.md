@@ -13,10 +13,11 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Support Material
 
-- Bulleted
-- List
+- The source code of implementing different prediction algorithms, building and evaluating different prediction models is written in Python, and can be found here.
+- The data of our 7 million prediction models is stored as .RData file and can be found [here.]https://drive.google.com/file/d/1FMuvddoRjXpo0q_8NKrA0rFKt96dura3/view
+- All the data analyses are performed through R scripts and can be found here.
 
 1. Numbered
 2. List
