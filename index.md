@@ -7,7 +7,7 @@ This website contains our source code, datasets, and analysis scripts used in th
 All of HipHarness’s components are implemented in Python, totaling 1,424 SLOC. [[Link]](https://figshare.com/s/f26f63e80df4f729a752)
 
 ### Test Results
-The results of each of the 7.3 million prediction models are stored as `HIPHarness-Dataset.RData` file, including the following information. [[Link]](https://figshare.com/s/808ce5aa2f049e171e02)
+The results of each of the 7.3 million prediction models are stored as `HIPHarness-Dataset.RData` file, including the following information. [[Link]](https://figshare.com/s/73897e1955fdef3285c8)
 - the anonymized user ID
 - the number of requests sent by the user
 - the number and percentage of the repeated requests
